@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharp_parser", "sharp_parser\sharp_parser.csproj", "{453DBBF3-4D44-4592-84A0-7516342461A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharp_parser_test", "sharp_parser_test\sharp_parser_test.csproj", "{193E575C-0B2B-4F92-9FBF-A4320FA5750D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453DBBF3-4D44-4592-84A0-7516342461A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453DBBF3-4D44-4592-84A0-7516342461A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453DBBF3-4D44-4592-84A0-7516342461A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453DBBF3-4D44-4592-84A0-7516342461A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193E575C-0B2B-4F92-9FBF-A4320FA5750D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193E575C-0B2B-4F92-9FBF-A4320FA5750D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193E575C-0B2B-4F92-9FBF-A4320FA5750D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193E575C-0B2B-4F92-9FBF-A4320FA5750D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
